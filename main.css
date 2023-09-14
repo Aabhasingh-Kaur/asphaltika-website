@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'poppins', sans-serif;
+}
+
+.address-bar{
+    margin:2px;
+ padding-right: 5px;
+}
+.head{
+height: 700px;
+width: 100%;
+background-image: url(./img/22.avif);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+position: relative;
+overflow: hidden;
+animation:changeImage 12s linear infinite;
+}
+
+@keyframes changeImage {
+0%{ background-image: url(./img/pexels-roman-kaiuk🇺🇦-11927239.jpg);}
+30%{ background-image: url(./img/22.avif);}
+65%{ background-image: url(./img/1.jpg);} */
+/* 60%{ background-image: url(./img/new.jpg);} */
+90%{ background-image: url(./img/2);}
+}
+.custom-shape-divider-bottom-1694335029 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1694335029 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 106px;
+}
+
+.custom-shape-divider-bottom-1694335029 .shape-fill {
+    fill: #FFFFFF;
+}
+
+/* .waves{
+position: absolute;
+bottom: 0;
+width: 100%;
+bottom: 0;
+} */
+
+.logo{
+    margin-left: 0;
+    height: 85px;
+position: absolute;
+    top: 0;
+    left:15%;
+    transform: translateX(-50%);
+    z-index: 1; /* Ensure the logo is on top */
+}
+.heading{
+    margin-top: 130px;
+}
+.heading-name{
+
+    text-shadow: 1px 1px;
+    font-size:70px;
+    font-weight: bolder;
+  position: relative;
+  -webkit-text-stroke: 0.2vw #fff;
+}
+.sub-heading{
+    -webkit-text-stroke: 0.1vw #fff;
+}
+
+.f-1{
+
+    height: 450px ;
+    background-color: black;
+}
+.f-11{
+    color: #fff;
+    margin-top: 100px;
+    margin-left: 100px;
+    height: 320px;
+    width: 350px;
+    border-right: 2px solid #FFF;
+}
+.logo-f{
+   
+    height: 85px;
+}
+.f-icons{
+    margin-left: 30px;
+    margin-top: 45px;
+}
