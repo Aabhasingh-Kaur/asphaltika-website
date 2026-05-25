@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Industrial infrastructure operations</title>
+  <desc id="desc">Engineering grid, road line, storage tanks, and infrastructure atmosphere.</desc>
+  <rect width="1200" height="760" fill="#171717"/>
+  <path d="M0 520c210-90 360-82 555-28 190 52 365 26 645-96v364H0z" fill="#0A0A0A"/>
+  <path d="M75 640c210-88 385-88 570-22 170 60 345 31 492-44" fill="none" stroke="#C8641C" stroke-width="12" stroke-linecap="round"/>
+  <g opacity=".22" stroke="#EDEAE4">
+    <path d="M0 120h1200M0 240h1200M0 360h1200"/>
+    <path d="M160 0v760M320 0v760M480 0v760M640 0v760M800 0v760M960 0v760"/>
+  </g>
+  <g transform="translate(690 160)">
+    <rect width="125" height="330" rx="12" fill="#262626" stroke="#525252" stroke-width="6"/>
+    <path d="M0 0c24-42 101-42 125 0" fill="#3A3A3A"/>
+    <rect x="170" y="74" width="155" height="256" rx="12" fill="#262626" stroke="#525252" stroke-width="6"/>
+    <path d="M170 74c28-48 127-48 155 0" fill="#3A3A3A"/>
+    <path d="M125 286h45" stroke="#C8641C" stroke-width="14"/>
+  </g>
+  <text x="70" y="126" fill="#F5F3EF" font-family="Georgia" font-size="44" font-weight="700">Operational Supply Support</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Industrial contact support visual</title>
+  <desc id="desc">Contact desk, map grid, and industrial support environment.</desc>
+  <rect width="1200" height="760" fill="#171717"/>
+  <g opacity=".18" stroke="#EDEAE4"><path d="M0 130h1200M0 260h1200M0 390h1200M0 520h1200"/><path d="M170 0v760M340 0v760M510 0v760M680 0v760M850 0v760M1020 0v760"/></g>
+  <rect x="120" y="180" width="430" height="360" rx="12" fill="#0A0A0A" stroke="#525252" stroke-width="7"/>
+  <path d="M180 275h300M180 350h240M180 425h280" stroke="#C8641C" stroke-width="12" stroke-linecap="round"/>
+  <path d="M760 160c-86 0-156 70-156 156 0 130 156 280 156 280s156-150 156-280c0-86-70-156-156-156z" fill="#0A0A0A" stroke="#C8641C" stroke-width="12"/>
+  <circle cx="760" cy="318" r="58" fill="#F5F3EF"/>
+  <text x="110" y="650" fill="#F5F3EF" font-family="Georgia" font-size="44" font-weight="700">Business Enquiries</text>
+</svg>

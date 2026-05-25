@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" role="img" aria-labelledby="title desc">
+  <title id="title">Industrial asphalt infrastructure pattern</title>
+  <desc id="desc">Abstract dark industrial tanks, road lines, and engineering grid for ASPHALTIKA website.</desc>
+  <rect width="900" height="650" fill="#111827"/>
+  <path d="M0 520 C180 440 300 455 448 496 C620 544 740 538 900 470 L900 650 L0 650 Z" fill="#0B111D"/>
+  <path d="M40 570 C210 500 342 510 470 548 C630 594 750 585 860 535" fill="none" stroke="#F97316" stroke-width="7" stroke-linecap="round"/>
+  <path d="M64 606 C235 542 349 552 487 589 C650 633 760 622 842 584" fill="none" stroke="#F9FAFB" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+  <g opacity="0.2" stroke="#F9FAFB" stroke-width="1">
+    <path d="M0 80 H900"/>
+    <path d="M0 160 H900"/>
+    <path d="M0 240 H900"/>
+    <path d="M0 320 H900"/>
+    <path d="M0 400 H900"/>
+    <path d="M90 0 V650"/>
+    <path d="M180 0 V650"/>
+    <path d="M270 0 V650"/>
+    <path d="M360 0 V650"/>
+    <path d="M450 0 V650"/>
+    <path d="M540 0 V650"/>
+    <path d="M630 0 V650"/>
+    <path d="M720 0 V650"/>
+    <path d="M810 0 V650"/>
+  </g>
+  <g transform="translate(116 175)">
+    <rect x="0" y="78" width="140" height="208" rx="8" fill="#1F2937" stroke="#4B5563" stroke-width="3"/>
+    <path d="M0 78 C22 36 118 36 140 78" fill="#374151"/>
+    <rect x="34" y="116" width="72" height="84" fill="#111827" opacity="0.85"/>
+    <rect x="176" y="30" width="116" height="256" rx="8" fill="#1F2937" stroke="#4B5563" stroke-width="3"/>
+    <path d="M176 30 C198 -10 270 -10 292 30" fill="#374151"/>
+    <rect x="205" y="82" width="58" height="122" fill="#111827" opacity="0.85"/>
+    <path d="M140 250 H176" stroke="#F97316" stroke-width="8"/>
+  </g>
+  <g transform="translate(540 124)" fill="none" stroke="#F97316" stroke-width="6" opacity="0.9">
+    <path d="M0 0 H210 V96 H0 Z"/>
+    <path d="M0 48 H210"/>
+    <path d="M52 0 V96"/>
+    <path d="M104 0 V96"/>
+    <path d="M156 0 V96"/>
+  </g>
+  <g fill="#F97316">
+    <circle cx="720" cy="354" r="8"/>
+    <circle cx="758" cy="354" r="8"/>
+    <circle cx="796" cy="354" r="8"/>
+  </g>
+</svg>

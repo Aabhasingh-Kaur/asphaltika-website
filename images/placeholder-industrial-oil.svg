@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Industrial oil supply placeholder</title>
+  <desc id="desc">Replace with a real industrial oil supply image.</desc>
+  <rect width="1200" height="760" fill="#111827"/>
+  <rect x="110" y="170" width="320" height="410" rx="20" fill="#1F2937" stroke="#4B5563" stroke-width="6"/>
+  <rect x="170" y="230" width="200" height="180" fill="#0B111D"/>
+  <path d="M570 170h270l120 410H450Z" fill="#1F2937" stroke="#4B5563" stroke-width="6"/>
+  <path d="M590 250h210M570 330h250M545 410h300" stroke="#F97316" stroke-width="10" opacity=".9"/>
+  <circle cx="962" cy="276" r="54" fill="#F97316"/>
+  <text x="110" y="112" fill="#F9FAFB" font-family="Arial" font-size="46" font-weight="700">Industrial Oil Supply</text>
+  <text x="110" y="636" fill="#D1D5DB" font-family="Arial" font-size="24">Placeholder image - replace with oil, transformer, or storage photography</text>
+</svg>

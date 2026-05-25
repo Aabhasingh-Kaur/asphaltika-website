@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Waterproofing membrane visual</title>
+  <desc id="desc">Layered membrane rolls and industrial waterproofing surface.</desc>
+  <rect width="1200" height="760" fill="#171717"/>
+  <g transform="translate(120 240)">
+    <ellipse cx="130" cy="135" rx="130" ry="84" fill="#262626" stroke="#525252" stroke-width="8"/>
+    <ellipse cx="130" cy="135" rx="72" ry="40" fill="#0A0A0A" stroke="#525252" stroke-width="6"/>
+    <path d="M130 50h590c92 0 150 68 150 112v95H130z" fill="#0A0A0A"/>
+    <path d="M130 50h590c92 0 150 68 150 112" fill="none" stroke="#C8641C" stroke-width="10"/>
+  </g>
+  <text x="100" y="135" fill="#F5F3EF" font-family="Georgia" font-size="44" font-weight="700">Waterproofing Systems</text>
+</svg>

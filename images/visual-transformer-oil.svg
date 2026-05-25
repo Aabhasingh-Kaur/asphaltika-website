@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Transformer oil visual</title>
+  <desc id="desc">Transformer, electrical lines, and industrial oil environment.</desc>
+  <rect width="1200" height="760" fill="#0A0A0A"/>
+  <g opacity=".18" stroke="#EDEAE4"><path d="M0 130h1200M0 260h1200M0 390h1200"/><path d="M190 0v760M380 0v760M570 0v760M760 0v760M950 0v760"/></g>
+  <rect x="155" y="260" width="360" height="280" rx="12" fill="#171717" stroke="#525252" stroke-width="8"/>
+  <path d="M210 220v-88M310 220v-88M410 220v-88" stroke="#C8641C" stroke-width="14" stroke-linecap="round"/>
+  <path d="M610 270h250l120 270H520z" fill="#171717" stroke="#525252" stroke-width="8"/>
+  <path d="M655 360h190M635 430h250" stroke="#C8641C" stroke-width="10"/>
+  <text x="120" y="120" fill="#F5F3EF" font-family="Georgia" font-size="46" font-weight="700">Transformer Oil</text>
+</svg>

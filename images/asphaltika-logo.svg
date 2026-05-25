@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" role="img" aria-labelledby="title desc">
+  <title id="title">ASPHALTIKA logo</title>
+  <desc id="desc">Industrial monogram logo for ASPHALTIKA with asphalt road and orange accent.</desc>
+  <rect width="360" height="360" rx="54" fill="#111827"/>
+  <path d="M58 285 162 62h36l104 223h-54l-19-45h-99l-19 45H58Z" fill="#F9FAFB"/>
+  <path d="M150 197h60l-30-72-30 72Z" fill="#111827"/>
+  <path d="M90 285c48-42 94-63 138-63 28 0 55 8 82 24v39H90Z" fill="#F97316"/>
+  <path d="M147 285c24-26 45-39 64-39 15 0 31 8 49 24" fill="none" stroke="#111827" stroke-width="12" stroke-linecap="round"/>
+  <path d="M175 250v31" stroke="#F9FAFB" stroke-width="7" stroke-linecap="round"/>
+</svg>

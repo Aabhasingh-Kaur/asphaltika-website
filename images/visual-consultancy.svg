@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Consultancy and compliance visual</title>
+  <desc id="desc">Documentation, audit review, technical compliance, and industrial consultancy atmosphere.</desc>
+  <rect width="1200" height="760" fill="#0A0A0A"/>
+  <rect x="120" y="150" width="360" height="470" rx="10" fill="#F5F3EF"/>
+  <path d="M180 245h240M180 315h190M180 385h240M180 455h160" stroke="#171717" stroke-width="14" stroke-linecap="round"/>
+  <rect x="610" y="210" width="390" height="260" rx="10" fill="#171717" stroke="#525252" stroke-width="7"/>
+  <path d="M670 390l70-80 68 50 105-120" fill="none" stroke="#C8641C" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="610" y="580" fill="#F5F3EF" font-family="Georgia" font-size="46" font-weight="700">Compliance Review</text>
+</svg>

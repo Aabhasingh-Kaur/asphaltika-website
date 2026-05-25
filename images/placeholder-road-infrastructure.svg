@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Road infrastructure placeholder</title>
+  <desc id="desc">Replace with a real road infrastructure image.</desc>
+  <rect width="1200" height="760" fill="#111827"/>
+  <path d="M0 510c180-92 325-106 470-62 195 58 365 48 730-108v420H0Z" fill="#0B111D"/>
+  <path d="M87 628c210-92 350-98 526-38 154 52 297 33 500-54" fill="none" stroke="#F97316" stroke-width="13" stroke-linecap="round"/>
+  <path d="M118 678c204-82 346-88 508-39 143 43 279 28 446-42" fill="none" stroke="#F9FAFB" stroke-width="5" stroke-linecap="round" opacity=".55"/>
+  <g opacity=".18" stroke="#F9FAFB">
+    <path d="M0 130h1200M0 260h1200M0 390h1200"/>
+    <path d="M170 0v760M340 0v760M510 0v760M680 0v760M850 0v760M1020 0v760"/>
+  </g>
+  <text x="70" y="128" fill="#F9FAFB" font-family="Arial" font-size="46" font-weight="700">Road Infrastructure</text>
+  <text x="70" y="182" fill="#D1D5DB" font-family="Arial" font-size="24">Placeholder image - replace with project photography</text>
+</svg>
